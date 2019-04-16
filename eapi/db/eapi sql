@@ -1,0 +1,6 @@
+/*
+-- Query: SELECT * FROM eapi.products
+LIMIT 0, 1000
+
+-- Date: 2019-04-16 12:26
+*/
